@@ -9,18 +9,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: "#todo Google scholar"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Anonymity-0
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -28,19 +22,16 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Innovation Academy for Microsatellites of Chinese Academy of Science
+    url: http://www.microsate.com
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Information Engineering
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023
+    - course: BSc in Computer Science
+      institution: South-Central Minzu University
+      year: 2019
 superuser: true
 status:
   icon: ☕️
@@ -49,6 +40,6 @@ role: Master of Electronic Information
 highlight_name: true
 title: AGA
 first_name: Alice
-email: ""
+email: gaga.0716@gmail.com
 ---
-
+A Master of Information Engineering student at the Innovation Academy for Microsatellites of Chinese Academy of Science
